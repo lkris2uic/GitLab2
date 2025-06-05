@@ -1,1 +1,1 @@
-# GitLab2
+This is a sample repository that I use to test my code
