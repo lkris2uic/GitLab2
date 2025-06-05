@@ -1,1 +1,1 @@
-This is a sample repository that I use to test my code
+This is a sample repository that I use to practice my code. I love coding and Git
